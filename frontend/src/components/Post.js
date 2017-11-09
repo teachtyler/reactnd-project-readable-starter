@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { ReadableAPI } from './ReadableAPI'
+import { ReadableAPI } from '.././ReadableAPI'
 import { Comments } from './Comments'
 
 export class Post extends Component {

@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
-import { ReadableAPI } from './ReadableAPI'
+import logo from '.././logo.svg';
+import '.././App.css';
+import { ReadableAPI } from '.././ReadableAPI'
 import { Posts } from './Posts'
 import { Post } from './Post'
 

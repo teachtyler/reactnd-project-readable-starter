@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { ReadableAPI } from './ReadableAPI'
+import { ReadableAPI } from '.././ReadableAPI'
 
 export class PostCard extends Component {
 
@@ -7,7 +7,7 @@ export class PostCard extends Component {
         comments: []
     }
 
-    shouldComponentUpdate(nextProps){
+    shouldComponentUpdate(nextProps) {
         return (this.props.post !== nextProps.post)
     }
 

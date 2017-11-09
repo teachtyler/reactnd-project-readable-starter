@@ -10,7 +10,7 @@ const defaultData = {
     body: 'Everyone says so after all.',
     author: 'thingtwo',
     category: 'react',
-    voteScore: 6,
+    voteScore: 16,
     deleted: false
   },
   "6ni6ok3ym7mf1p33lnez": {
